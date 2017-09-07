@@ -509,11 +509,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MLVisualization-HoloLens
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: D:\Unity Projects\MLVisualization-HoloLens\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 002f60940f47d401
   metroApplicationDescription: MLVisualization-HoloLens
   wsaImages: {}
   metroTileShortName: 
